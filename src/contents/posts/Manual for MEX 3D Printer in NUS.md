@@ -2,7 +2,7 @@
 title: Material Extrusion 3D printing platform @ NUS CDE AML
 published: 2024-10-22
 description: A Manual for MEX 3D Printer I built in 2024
-tags: [Additive Manufacturing][DIY][Manual]
+tags: [Additive Manufacturing,DIY,Manual]
 category: Martin Build
 draft: false
 ---
