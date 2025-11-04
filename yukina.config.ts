@@ -2,15 +2,15 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Martin",
-  subTitle: "Martin's Blog",
+  title: "Martin's Blog",
+  subTitle: "记录生活与思考",
   brandTitle: "Martin",
 
-  description: "Demo Site",
+  description: "记录生活与思考",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://martinsoaring-blog.vercel.app",
 
-  locale: "en", // set for website language and date format
+  locale: "zh-cn", // set for website language and date format
 
   navigators: [
     {
@@ -31,9 +31,9 @@ const YukinaConfig: Configuration = {
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "Martin",
+  sign: "If I rest, I rust.",
+  avatarUrl: "https://tvax3.sinaimg.cn/large/a0d41f7bly1i70hsy6n3sj20go0godh1.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
