@@ -9,10 +9,6 @@ draft: false
 
 # Material Extrusion 3D printing platform @ NUS CDE AML
 
-# Content
-
-[TOC]
-
 # 1. Introduction
 
 Fixture[^7] and assembly[^6] are here.
