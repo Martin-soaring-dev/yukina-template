@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "Martin",
   sign: "If I rest, I rust.",
-  avatarUrl: "http://photogzmaz.photo.store.qq.com/psc?/V50P9Vjy3U70NN23EdEZ3PIezN4OWSWr/LiySpxowE0yeWXwBdXN*SWkza1ITS6CndrA0WZzWRskl.9qEXuSLRX*SLifJatelNGSRG6h9a20Pla*FTV7dpRpa0CTNPwA6XH1iOoUXRo0!/b&bo=YgFYAWIBWAEDByI!&rf=viewer_4",
+  avatarUrl: "https://github.com/Martin-soaring-dev/yukina-template/src/imgs/avatar.png",
   socialLinks: [
     {
       icon: "line-md:github-loop",
